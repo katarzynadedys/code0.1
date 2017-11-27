@@ -1,0 +1,129 @@
+body{
+	background-image: url("img/stress.png");
+	color: #FFFFCC;
+	font-family: 'Bree Serif', serif;
+	margin: 0
+}
+
+#container{
+	width: 1247px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#header{
+	clear:both;
+	text-align:center;
+	
+}
+
+.title{
+	
+	width: 300px;
+	float: left;
+	font-size: 30px;
+	margin: 100px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 272px;
+	letter-spacing: 1px;
+	opacity: 0.9;
+	
+}
+
+#timer{
+	
+	width: 200px;
+	float: left;
+	font-size: 30px;
+	margin: 100px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: right;
+	letter-spacing: 1px;
+	opacity: 0.9;
+	
+}
+
+#top{
+	width:1247px;
+	clear: both;
+	margin-left: 70px;
+	
+}
+
+.block1{
+
+	width: 90px;
+	height: 120px;
+	margin: 5px;
+	float:left;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 150px;
+}
+
+.block2{
+
+
+	width: 90px;
+	height: 120px;
+	margin: 5px;
+	float:left;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 150px;
+	
+}
+
+#slider{
+	
+	width: 700px;
+	float: left;
+	margin: 0;
+	text-align: center;
+	min-height: 467px;
+	
+
+	
+}
+.block3{
+
+	width: 90px;
+	height: 120px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 150px;
+	
+}
+.block4{
+
+	width: 90px;
+	height: 120px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 150px;
+	
+}
+
+a{
+	color: white;
+}
+
+
+a:hover{
+	color: #9966CC
+}
+
+#footer{
+	width: 900px;
+	margin: auto;
+	text-align: center;
+	clear: both;
+	font-size: 15px;
+	
+}
